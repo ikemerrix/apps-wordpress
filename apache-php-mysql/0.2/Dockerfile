@@ -25,7 +25,7 @@ ENV MARIADB_DATA_DIR="/home/data/mysql"
 ENV MARIADB_LOG_DIR="/home/LogFiles/mysql"
 
 # php
-ENV PHP_VERSION "7.1.2"
+ENV PHP_VERSION "8.2.1"
 ENV PHP_DOWNLOAD_URL "https://secure.php.net/get/php-$PHP_VERSION.tar.gz/from/this/mirror"
 ENV PHP_SHA256 "e6773217c9c719ca22abb104ae3d437d53daceaf31faf2e5eeb1f9f5028005d8"
 ENV PHP_SOURCE "/usr/src/php"
